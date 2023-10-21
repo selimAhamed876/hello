@@ -1,0 +1,58 @@
+ul{
+	list-style-type: none;
+	background-color: #555;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+li{
+	float: left;
+}
+
+li a{
+	color: white;
+	padding: 20px 40px;
+	font-size: 30px;
+
+
+}
+.content{
+	width: 300px;
+	background-color: #f3f3f3;
+	text-align: center;
+	margin-top: 40px;
+	margin-left: 35%;
+	padding: 8px;
+}
+input{
+	padding: 8px;
+	margin: 14px;
+	border: 1px solid;
+	border-radius: 16px;
+	font-size: 18px;
+	text-align: center;
+}
+a{
+	text-decoration: none;
+}
+select{
+	border: none;
+}
+input[type=button]{
+	background-color: red;
+	color: white;
+	font-size: 20px;
+	width: 200px;
+	border: none;
+	border-radius: 16px;
+}
+input[type=submit]{
+
+	color: #555;
+	font-size: 20px;
+	width: 200px;
+	border: 1px solid;
+	border-radius: 16px;
+
+
+}
